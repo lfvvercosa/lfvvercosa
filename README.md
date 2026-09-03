@@ -18,6 +18,7 @@ Most of what I build is proprietary — the pipeline at bp, a RAG system in prod
 
 | | |
 |---|---|
+| [nano_gpt](https://github.com/lfvvercosa/nano_gpt) | A GPT built from scratch in PyTorch, step by step from bigram to full Transformer, with a head-to-head comparison of what each architectural piece actually buys you |
 | [example_playwright_lambda](https://github.com/lfvvercosa/example_playwright_lambda) | Running Playwright inside AWS Lambda for serverless scraping, container and IAM setup included |
 | [brazilian-justice](https://github.com/lfvvercosa/brazilian-justice) | Process mining over the Brazilian Justice event log, from a dataset I published on 4TU and Kaggle |
 | [discover_analytics_analysis_lawsuit](https://github.com/lfvvercosa/discover_analytics_analysis_lawsuit) | Code for a paper on predicting lawsuit duration with machine learning and process mining |
