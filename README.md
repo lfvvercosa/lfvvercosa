@@ -6,9 +6,9 @@ Right now I work on a GenAI email-processing pipeline for the Supply, Trading & 
 
 **What I work with**
 
-- **GenAI / LLMs** — RAG, LangChain, LangGraph, prompt engineering, Azure OpenAI, Amazon Bedrock, Gemini
-- **Machine Learning** — XGBoost, LightGBM, neural networks, LSTM/GRU, time series, clustering, SHAP
-- **Platform** — Python, SQL, AWS, Azure, Databricks, Spark, Docker, Kubernetes, MLflow
+- **GenAI / LLMs**: RAG, LangChain, LangGraph, prompt engineering, Azure OpenAI, Amazon Bedrock, Gemini
+- **Machine Learning**: XGBoost, LightGBM, neural networks, LSTM/GRU, time series, clustering, SHAP
+- **Platform**: Python, SQL, AWS, Azure, Databricks, Spark, Docker, Kubernetes, MLflow
 
 **About this profile**
 
